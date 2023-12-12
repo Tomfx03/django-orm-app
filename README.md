@@ -10,12 +10,19 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-
+Clone the repository django-orm-app.
 ### STEP 2:
-
+Open data project and open settings.py and make the required edits. 
 ### STEP 3:
+Now run code python manage.py startapp myapp and add myapp in settings.py in line 40
+### STEP 4:
+Now run code python manage.py makemigrations and then python manage.py migrate to migrate the changes
 
-Write your own steps
+### STEP 5:
+Now we run the program using the code python manage.py runserver 0:8000 
+
+### STEP 6:
+Open the server and add 10 student users
 
 ## PROGRAM
 ![image](https://github.com/Tomfx03/django-orm-app/assets/101335832/8df1bb79-8cd6-43ac-aed5-a093f78929ef)
