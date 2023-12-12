@@ -27,3 +27,4 @@ Write your own steps
 
 
 ## RESULT
+We have succesfully created 10 student users as a superuser
